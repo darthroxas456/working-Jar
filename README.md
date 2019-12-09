@@ -1,2 +1,2 @@
-# Activity-14
-Show ability to create jar file
+# tutorial-6-submission
+Shows the ability to create jar file
